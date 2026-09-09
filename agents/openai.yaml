@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spoken English Audio"
+  short_description: "Natural spoken scripts with two practice MP3s"
+  default_prompt: "Use $spoken-english-audio to make this script conversational and generate normal and slow practice MP3s."
